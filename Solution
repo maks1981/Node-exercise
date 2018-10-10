@@ -1,0 +1,27 @@
+// I use c9 to figure out this exercise and i created js file
+
+function hey(str, num){
+    for(var i = 1; i <= num; i++){
+    console.log(str);
+    }
+}
+
+hey("Helloo!!!", 10)
+hey("Hello Maks", 3)
+
+// then i run this code and result is below
+
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Helloo!!!
+Hello Maks
+Hello Maks
+Hello Maks
+
